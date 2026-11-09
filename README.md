@@ -16,7 +16,7 @@ the App Store. ([website repo](https://github.com/borisatan/monora-website))
 | --- | --- | --- |
 | [**Andante**](https://github.com/borisatan/Andante) | Offline-first habit tracker with a contribution-grid view, streaks, reminders and an Android widget | React Native · Expo · TypeScript · SQLite |
 | [**Cadenza**](https://github.com/borisatan/WorkTracker) | iOS app and home-screen widget that tracks worked hours from your calendar | React Native · Expo · SwiftUI · WidgetKit |
-| [**Medical CT Analysis**](https://github.com/borisatan/medical_analysis) | Exploratory analysis of 3D CT scans | Python · NumPy · nibabel · Jupyter |
+| [**Medical CT Analysis**](https://github.com/borisatan/medical_analysis) | Screens femur segmentations across 102 CT scans and generates simulated X-rays (DRRs) from the CT volumes | Python · NumPy · SciPy · nibabel |
 | [**Roxy Fed**](https://github.com/borisatan/roxy-fed) | Tap an NFC sticker to see whether the dog has been fed today. No app, no login | Vanilla JS · Supabase · GitHub Pages |
 
 ### 🧰 Tools I work with
